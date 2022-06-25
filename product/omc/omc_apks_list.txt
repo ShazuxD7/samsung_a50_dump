@@ -1,0 +1,2 @@
+/product/app/SamsungMax/SamsungMax.apk
+/product/priv-app/Ignite-samsungSamsungAgent_7.0.145-5359_release/Ignite-samsungSamsungAgent_7.0.145-5359_release.apk
